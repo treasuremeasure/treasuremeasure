@@ -16,10 +16,3 @@
 </a>
 
 
-## 🔥 Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=mityay36&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mityay36&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mityay36&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
