@@ -1,4 +1,4 @@
-<h1 align="center">👋Riza Orduhani, 22, Junior DevOps </h1>
+<h1 align="center">👋Riza Orduhani, 22, Junior DevOps-engineer </h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mityay36.mityay36&"  />
@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About me
 - 🧠 Practicing System Analyst, experience in IT over 1 year, DevOps beginner 
-- 👨‍🎓 **Bc. in Business Informatics** (HSE, Moscow) +  **Bc. in Management and Digital Innovation** (UoL, London), **Masters in Infocommunication Technologies and Communication Systems** (ITMO University, St. Petersburg) - in progress
+- 👨‍🎓 **BSc. in Business Informatics** (HSE, Moscow) +  **BSc. in Management and Digital Innovation** (UoL, London), **Masters in Infocommunication Technologies and Communication Systems** (ITMO University, St. Petersburg) - in progress
 
 
 📫 How to reach me:
