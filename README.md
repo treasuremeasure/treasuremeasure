@@ -5,7 +5,7 @@
 </div>
 
 ## 👩‍💻 About me
-- 🧠 Practicing System Analyst, experience in IT over 1 year, DevOps beginner 
+- 🧠 Practicing Devops-engineer, Lamoda Intern
 - 👨‍🎓 **BSc. in Business Informatics** (HSE, Moscow) +  **BSc. in Management and Digital Innovation** (UoL, London), **Masters in Infocommunication Technologies and Communication Systems** (ITMO University, St. Petersburg) - in progress
 
 
