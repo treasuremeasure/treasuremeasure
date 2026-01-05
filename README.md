@@ -5,7 +5,7 @@
 </div>
 
 ## 👩‍💻 About me
-- 🧠 Practicing Devops-engineer, Lamoda Intern
+- 🧠 Practicing Devops-engineer, Lamoda Group company
 - 👨‍🎓 **BSc. in Business Informatics** (HSE, Moscow) +  **BSc. in Management and Digital Innovation** (UoL, London), **Masters in Infocommunication Technologies and Communication Systems** (ITMO University, St. Petersburg) - in progress
 
 
